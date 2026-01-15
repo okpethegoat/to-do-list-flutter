@@ -1,2 +1,10 @@
-# to-do-list-flutter
-A short to-do list created and dsigned using flutter
+# Creative To-Do App
+
+A modern, animated to-do list built with Flutter.
+
+## Features
+- ✅ Add and delete tasks
+- ✔️ Mark tasks as complete
+- 🗑️ Swipe to delete
+- 🌓 Light/dark mode support
+- 💾 Saves tasks locally
